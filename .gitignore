@@ -1,0 +1,10 @@
+data/
+__pycache__/
+*.pt
+*.pth
+*.ckpt
+*.pyc
+.ipynb_checkpoints/
+.env
+Hospital Readmission risk/
+Heart attack risk/
